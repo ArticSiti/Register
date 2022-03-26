@@ -1,3 +1,3 @@
 module.exports = {
-    publichPatch: '/Forms/'
+    publichPatch: '/Register/'
 }
